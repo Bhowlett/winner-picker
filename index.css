@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway:300');
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: black;
+  font-family: 'Lato', sans-serif;  
+}
+
+h1 {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+#content {
+  width: 35em;
+}
+
+p {
+  color: white;
+}
+
+#txt{
+  width: 100%;
+}
+
+button {
+  border: none;
+  background-color: #008CBA;
+  color: white;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-family: 'Lato', sans-serif;      
+}
+
+#btn-ctnr {
+  text-align: right;
+  
+}
